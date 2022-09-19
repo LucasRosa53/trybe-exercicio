@@ -1,3 +1,18 @@
 body {
     background-color: rgb(93, 222, 226);
 }
+
+.Areanav {
+    text-align: center;
+    
+}
+
+.paginicial {
+    text-decoration: none;
+}
+
+
+.Fatos {
+    text-align: center;
+    font-style: italic;
+}
