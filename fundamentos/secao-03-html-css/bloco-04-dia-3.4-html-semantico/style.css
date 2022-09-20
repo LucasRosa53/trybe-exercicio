@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(93, 222, 226);
+    background-color: rgb(15, 15, 15);
 }
 
 .Areanav {
     text-align: center;
-    
+
 }
 
 .paginicial {
@@ -16,3 +16,41 @@ body {
     text-align: center;
     font-style: italic;
 }
+
+.lista li a {
+    text-decoration: none;
+    
+}
+.Stomo {
+    width: 65%;
+    align-items: center;
+    
+}
+
+.Stomoimg li a {
+    text-decoration: none;
+    
+    
+
+}
+.Stomoimg li {
+    list-style: none;
+    text-align: center;
+}
+
+.bdescrição {
+    font-style: italic;
+    color: white;
+    background-color: rgb(8, 8, 8);
+}
+
+.link {
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+
+
+
