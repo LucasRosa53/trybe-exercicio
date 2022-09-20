@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+.Areanav {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(65, 0, 185);
+
+}
+
+.paginicial {
+    text-decoration: none;
+    background-color: rgb(0, 151, 33);
+}
+
+
+.Fatos {
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: rgb(0, 151, 33);
+}
+
+.lista li a {
+    text-decoration: none;
+
+}
+
+.Stomo {
+    width: 30%;
+    margin-left: 35%;
+
+}
+
+.Stomoimg li a {
+    text-decoration: none;
+
+
+
+}
+
+.Stomoimg li {
+    list-style: none;
+    text-align: center;
+
+}
+
+.bdescrição {
+    font-style: italic;
+    color: white;
+    background-color: rgb(65, 0, 185);
+}
+
+.link {
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 151, 33);
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(65, 0, 185);
+    border-collapse: collapse;
+    color: white;
+    background-color: rgb(0, 151, 33);
+}
+
+.titulo-tabela {
+    text-align: center;
+    color: white;
+    background-color: rgb(65, 0, 185);
+}
+
+.boxe-stomo {
+    width: 30%;
+    margin-left: 35%;
+    
+}
+
+.visao-stomo {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.footer {
+    font-style: italic;
+    color: white;
+    background-color: rgb(65, 0, 185);
+}
+
+.video-comp2 {
+    background-color: rgb(0, 151, 33);
+    color: white;
+}
+
+.ref {
+    color: white;
+    background-color: rgb(65, 0, 185);
+}
+
+.sobre-visao {
+    background-color: rgb(0, 151, 33);
+    color: white;
+}
+
+.soco-sobre {
+    color: white;
+    background-color: rgb(65, 0, 185);
+}
+
+
