@@ -1,9 +1,10 @@
 body {
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(52, 146, 253);
 }
 
 .Areanav {
     text-align: center;
+    color: white;
 
 }
 
@@ -15,42 +16,71 @@ body {
 .Fatos {
     text-align: center;
     font-style: italic;
+    color: white;
 }
 
 .lista li a {
     text-decoration: none;
-    
+
 }
+
 .Stomo {
-    width: 65%;
-    align-items: center;
-    
+    width: 30%;
+    margin-left: 35%;
+
 }
 
 .Stomoimg li a {
     text-decoration: none;
-    
-    
+
+
 
 }
+
 .Stomoimg li {
     list-style: none;
     text-align: center;
+
 }
 
 .bdescrição {
     font-style: italic;
     color: white;
-    background-color: rgb(8, 8, 8);
+    background-color: rgb(44, 160, 255);
 }
 
 .link {
     font-family: fantasy;
     text-decoration: none;
     color: white;
-    background-color: black;
+    background-color: rgb(44, 160, 255);
 }
 
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: white;
+    background-color: rgb(44, 160, 255);
+}
 
+.titulo-tabela {
+    text-align: center;
+    color: white;
+    background-color: rgb(44, 160, 255);
+}
 
+.boxe-stomo {
+    width: 30%;
+    margin-left: 35%;
+    
+}
 
+.visao-stomo {
+    width: 30%;
+    margin-left: 35%;
+}
+/* .tabela {
+    display: inline-block;
+} */
